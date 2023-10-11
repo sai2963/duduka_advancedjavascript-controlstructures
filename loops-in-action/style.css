@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+#main{
+    margin: 20px 200px;
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+}
+#body{
+    padding: 20px;
+}
+input{
+    padding: 10px;
+    margin: 20px;
+}
+button{
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px 15px;
+
+}
+a{
+    text-decoration: none;
+    
+}
